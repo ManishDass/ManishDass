@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/ManishDass/master/assets/name.svg" alt="Manish Das" />
+</h1>
 
 - 👋 Hi, I’m @ManishDas
 - 👀 I’m a Full Stack Web developer & UI Designer
