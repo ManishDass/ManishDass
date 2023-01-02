@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/ManishDass/master/assets/name.svg" alt="Manish Das" />
+  <img src="https://raw.githubusercontent.com/ManishDass/ManishDass/master/assets/name.svg" alt="Manish Das" />
 </h1>
 
 - 👋 Hi, I’m @ManishDas
