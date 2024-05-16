@@ -3,8 +3,8 @@
 </h1>
 
 - 👋 Hi, I’m @ManishDas
-- 👀 I’m a Full Stack Web developer & UI Designer
-- 🌱 Currently learning Next.JS, PlanetDB, DSA
+- 👀 I’m a Aspiring Full Stack Web developer & UI Designer
+- 🌱 Currently learning NodeJS, Figma, Davinci Resolve, Express JS
 - 📫 You can reach me at manishdas11811480@gmail.com 
 
 
