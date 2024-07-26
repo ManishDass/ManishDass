@@ -81,6 +81,44 @@
 
 
 
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="100%">
+
+
+
+
+
+
+
+
+<!--Gift-->
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+
+
+
+
+<img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+<!--🐱CAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+
+<!--Interest-->
+<p align="center">
+<img src="https://i.imgur.com/ozEwbHs.gif">
+
+
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
@@ -112,8 +150,16 @@ Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 </div>
 
 
-<!--Gift-->
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
+
+
+
+
+
+
+
+
+
+![](https://komarev.com/ghpvc/?username=your-github-ManishDass&style=plastic)
 
 
