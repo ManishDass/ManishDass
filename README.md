@@ -8,7 +8,7 @@
 - 📫 You can reach me at manishdas11811480@gmail.com 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManishDass&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManishDass&theme=radical)](https://github-readme-stats.vercel.app/api?username=ManishDass&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
 
