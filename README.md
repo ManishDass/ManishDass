@@ -85,13 +85,10 @@
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="100%">
-
 
 
 <!--Dynamic Snake SVG-->
-![snake gif](https://github.com/ManishDass/ManishDass/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <picture>
