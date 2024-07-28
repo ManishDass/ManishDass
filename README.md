@@ -36,7 +36,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
-![Profile-Visitor](https://komarev.com/ghpvc/?username=your-github-ManishDass&style=plastic)
+
 
 
 
@@ -204,7 +204,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 </div>
 
 
@@ -213,7 +212,6 @@
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -281,3 +279,9 @@ Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 </details>
 
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-ManishDass&style=for-the-badge" width="25%"/>
+</div>
