@@ -3,7 +3,7 @@
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
 
-<!-- Title -->
+<!-- Title Section -->
 <h1 align="center">
 # Hi there 👋 I'm
   <img src="https://raw.githubusercontent.com/ManishDass/ManishDass/master/assets/name.svg" alt="Manish Das" />
